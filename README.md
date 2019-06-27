@@ -1,3 +1,5 @@
+日本語版: https://qiita.com/yana1316/items/3116f00a6760a76a4b20
+
 ## Purpose
 This code can check key code in Flutter web. (2019.06.27)
 
