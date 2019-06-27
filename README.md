@@ -16,13 +16,14 @@ I considered why key code was got different result.
 So, I found out this cause.
 
 ## Cause
-First, This Flutter web was ver preview. 
+First, This Flutter web was version preview. 
 This version was not implemented key code for macOS, Windows and linux yet.
 TODO was written in packages/flutter_web/lib/src/services/raw_keyboard.dart.
+
 Second, In this version, All keymap was fixed on Android.
 TODO was written in flutter_web_ui/packages/flutter_web_ui/src/engine/keyboard.dart.
-I changed the keymap that was fixed Android to fuchsia.(fushsia was next os build by google.)
-I was able to get the key code 97 I was expecting.
+I changed the keymap from Android to fuchsia.(fushsia is future os by google. I used it, because this version not implemented macOS.)
+I tried again, I was able to get the key code 97 I was expecting.
 
 ### Before
 <img src="https://user-images.githubusercontent.com/423416/60225285-1d591c00-98c1-11e9-8b51-92557e311edf.png" width="480px">
