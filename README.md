@@ -25,10 +25,10 @@ I changed the keymap that was fixed Android to fuchsia.(fushsia was next os buil
 I was able to get the key code 97 I was expecting.
 
 ### Before
-<img src="https://user-images.githubusercontent.com/423416/60225285-1d591c00-98c1-11e9-8b51-92557e311edf.png" width="320px">
+<img src="https://user-images.githubusercontent.com/423416/60225285-1d591c00-98c1-11e9-8b51-92557e311edf.png" width="480px">
 
 ### After
-<img src="https://user-images.githubusercontent.com/423416/60225302-306bec00-98c1-11e9-8993-eff9ae811483.png" width="320px">
+<img src="https://user-images.githubusercontent.com/423416/60225302-306bec00-98c1-11e9-8993-eff9ae811483.png" width="480px">
 
 ### Note
 package:flutter_web/src/services/packages/flutter_web/src/services/raw_keyboard.dart 257:5       fromMessage
