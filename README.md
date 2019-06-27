@@ -32,12 +32,12 @@ I tried again, I was able to get the key code 97 I was expecting.
 <img src="https://user-images.githubusercontent.com/423416/60225302-306bec00-98c1-11e9-8993-eff9ae811483.png" width="480px">
 
 ### Note
-package:flutter_web/src/services/packages/flutter_web/src/services/raw_keyboard.dart 257:5       fromMessage
-package:flutter_web/src/services/packages/flutter_web/src/services/raw_keyboard.dart 504:43      _handleKeyEvent
-package:flutter_web/src/services/packages/flutter_web/src/services/raw_keyboard.dart 503:34      [_handleKeyEvent]
-package:flutter_web/src/services/packages/flutter_web/src/services/platform_channel.dart 67:49   <fn>
-package:flutter_web/src/services/packages/flutter_web/src/services/platform_channel.dart 66:56   <fn>
-package:flutter_web/src/services/packages/flutter_web/src/services/platform_messages.dart 70:33  handlePlatformMessage
-package:flutter_web/src/services/packages/flutter_web/src/services/platform_messages.dart 64:44  handlePlatformMessage
-package:flutter_web_ui/packages/flutter_web_ui/src/engine/keyboard.dart 75:15                    [_handleHtmlEvent]
-package:flutter_web_ui/packages/flutter_web_ui/src/engine/keyboard.dart 25:7                     <fn>
+flutter_web/src/services/packages/flutter_web/src/services/raw_keyboard.dart 257:5       fromMessage
+flutter_web/src/services/packages/flutter_web/src/services/raw_keyboard.dart 504:43      _handleKeyEvent
+flutter_web/src/services/packages/flutter_web/src/services/raw_keyboard.dart 503:34      [_handleKeyEvent]
+flutter_web/src/services/packages/flutter_web/src/services/platform_channel.dart 67:49   <fn>
+flutter_web/src/services/packages/flutter_web/src/services/platform_channel.dart 66:56   <fn>
+flutter_web/src/services/packages/flutter_web/src/services/platform_messages.dart 70:33  handlePlatformMessage
+flutter_web/src/services/packages/flutter_web/src/services/platform_messages.dart 64:44  handlePlatformMessage
+flutter_web_ui/packages/flutter_web_ui/src/engine/keyboard.dart 75:15                    [_handleHtmlEvent]
+flutter_web_ui/packages/flutter_web_ui/src/engine/keyboard.dart 25:7                     <fn>
