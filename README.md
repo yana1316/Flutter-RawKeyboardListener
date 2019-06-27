@@ -22,7 +22,7 @@ TODO was written in packages/flutter_web/lib/src/services/raw_keyboard.dart.
 
 Second, In this version, All keymap was fixed on Android.
 TODO was written in flutter_web_ui/packages/flutter_web_ui/src/engine/keyboard.dart.
-I changed the keymap from Android to fuchsia.(fushsia is future os by google. I used it, because this version not implemented macOS.)
+I changed the keymap from Android to fuchsia.(fushsia is future OS by google. I used it, because this version was not implemented macOS.)
 I tried again, I was able to get the key code 97 I was expecting.
 
 ### Before
